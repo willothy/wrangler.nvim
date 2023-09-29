@@ -4,7 +4,7 @@
 Table of Contents                                 *wrangler-table-of-contents*
 
 
-Project based mark manager build on SqliteThe goal of this plugin is to be a more minimal and customizeable equivalent to
+Project based mark manager built on SqliteThe goal of this plugin is to be a more minimal and customizeable equivalent to
 ThePrimeagen/harpoon <https://github.com/ThePrimeagen/harpoon>, which hasn’t
 been updated in a while and contains many features that I don’t use.
 
