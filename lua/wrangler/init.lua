@@ -347,9 +347,9 @@ function M.menu_is_open()
 end
 
 function M._menu_open_win()
-  local width = 50
-  local height = 10 -- clamp(10, 10, #marks)
-  local row = math.floor((vim.o.lines - height) / 2)
+  local width = 60
+  local height = 10
+  local row = math.floor((vim.o.lines - height) / 2) - 1
   local col = math.floor((vim.o.columns - width) / 2)
 
   local win_opts = {
