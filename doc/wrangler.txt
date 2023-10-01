@@ -1,4 +1,4 @@
-*wrangler.txt*          For NVIM >=0.9          Last change: 2023 September 30
+*wrangler.txt*           For NVIM >=0.9           Last change: 2023 October 01
 
 ==============================================================================
 Table of Contents                                 *wrangler-table-of-contents*
